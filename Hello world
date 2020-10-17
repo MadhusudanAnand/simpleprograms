@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-   printf("HELLO!! this is a repo of mhmdrameez ");
+   printf("HELLO, this is a repo of mhmdrameez!! ");
    return 0;
 }
